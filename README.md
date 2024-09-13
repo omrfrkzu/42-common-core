@@ -53,17 +53,6 @@ This repository contains code developed at **42 Porto Common Core**, from **02/1
 > In 42, the following projects are a personal choice:
 > <br> `so_long`, `fract-ol` or `fdf` > `minitalk` or `pipex` > `cub3d` or `minirt` > `webserv` or `ft_irc`
 
-## EXAMS
-<div align="center">
-
-| Exam Rank | Language | Finish Date | Grade | Time |
-| :--- | :--- | :--- | :--- | :--- |
-| Exam 02 | `C` | 31-03-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess"/> | `3 hours` |
-| Exam 03 | `C` | 05-04-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess"/> | `3 hours` |
-| Exam 04 | `C` | 05-07-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess"/> | `3 hours` |
-| Exam 05 | `C++` | - | - | `3 hours` |
-| Exam 06 | `C++` | - | - | `3 hours` |
-
 </div>
 
 ## NORMINETTE
