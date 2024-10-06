@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_common_core.png">
+   <img src="https://github.com/omrfrkzu/omrfrkzu/blob/d21ee9e14798d9ea9709d70884187cbc7722c211/Banners/common.png">
 </p>
 
 <p align="center">
