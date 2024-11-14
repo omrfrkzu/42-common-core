@@ -23,28 +23,6 @@ Bu depo, **42 Kocaeli Common Core**'da bugüne kadar geliştirilen kodları içe
 > [!NOT]  
 > Eğer **42 Kocaeli Piscine** ile ilgili kodlar arıyorsanız, <a href="https://github.com/omrfrkzu/42-piscine.git">buraya tıklayın</a>.
 
-## PROJELER
-<div align="center">
-
-| Proje | Dil | Değerlendirme Bilgisi |
-| :--- | :--- | :--- |
-| [libft](https://github.com/omrfrkzu/libft) | <img src="https://img.shields.io/github/languages/top/jotavare/libft"/> | `3 peers` `15 mins` |
-| [get_next_line](https://github.com/omrfrkzu/get_next_line) | <img src="https://img.shields.io/github/languages/top/jotavare/get_next_line"/> | `3 peers` `15 mins` |
-| [ft_printf](https://github.com/omrfrkzu/ft_printf) | <img src="https://img.shields.io/github/languages/top/jotavare/ft_printf"/> | `3 peers` `15 mins` |
-| [born2beroot](https://github.com/omrfrkzu/born2beroot) | <img src="https://img.shields.io/github/languages/top/jotavare/born2beroot"/> | `3 peers` `1 hour` |
-| [minitalk](https://github.com/omrfrkzu/minitalk) | <img src="https://img.shields.io/github/languages/top/jotavare/minitalk"/> | `3 peers` `15 mins` |
-| [so_long](https://github.com/omrfrkzu/so_long) | <img src="https://img.shields.io/github/languages/top/jotavare/so_long"/> | `3 peers` `15 mins` |
-| [push_swap](https://github.com/omrfrkzu/push_swap) | <img src="https://img.shields.io/github/languages/top/jotavare/push_swap"/> | `3 peers` `15 mins` |
-| [philosophers](https://github.com/omrfrkzu/philosophers) | <img src="https://img.shields.io/github/languages/top/jotavare/philosophers"/> | `3 peers` `15 mins` |
-| [minishell](https://github.com/omrfrkzu/minishell) | <img src="https://img.shields.io/github/languages/top/jotavare/minishell"/> | `3 peers` `15 mins` |
-| [net_practice](https://github.com/omrfrkzu/net_practice) | <img src="https://img.shields.io/github/languages/top/jotavare/net_practice"/> | `3 peers` `15 mins` |
-| [cub3d](https://github.com/omrfrkzu/cub3d) | <img src="https://img.shields.io/github/languages/top/jotavare/cub3d"/> | `3 peers` `45 mins` |
-| [cpp_modules](https://github.com/omrfrkzu/cpp_modules) | <img src="https://img.shields.io/github/languages/top/jotavare/cpp_modules"/> | `2 peers` `15 mins` |
-| [inception](https://github.com/omrfrkzu/inception) | <img src="https://img.shields.io/github/languages/top/jotavare/inception"/> | `3 peers` `30 mins` |
-| webserv | - |`3 peers` `1 hour` |
-| ft_transcendence | - | `3 peers` `1 hour` |
-
-</div>
 
 </div>
 
