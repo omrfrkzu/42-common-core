@@ -24,6 +24,18 @@ Bu depo, **42 Kocaeli Common Core**'da bugüne kadar geliştirilen kodları içe
 > Eğer **42 Kocaeli Piscine** ile ilgili kodlar arıyorsanız, <a href="https://github.com/omrfrkzu/42-piscine.git">buraya tıklayın</a>.
 
 
+## PROJECTS
+<div align="center">
+
+| Project | Language | Grade | Last Commit | Evaluation Information |
+| :--- | :--- | :--- | :--- | :--- |
+| [libft](https://github.com/omrfrkzu/libft) | <img src="https://img.shields.io/github/languages/top/jotavare/libft"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/libft"/> | `3 peers` `15 mins` |
+| [get_next_line](https://github.com/omrfrkzu/get_next_line) | <img src="https://img.shields.io/github/languages/top/jotavare/get_next_line"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/get_next_line" /> | `3 peers` `15 mins` |
+| [ft_printf](https://github.com/omrfrkzu/ft_printf) | <img src="https://img.shields.io/github/languages/top/jotavare/ft_printf"/> | <img src="https://img.shields.io/badge/104%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/ft_printf"/> | `3 peers` `15 mins` |
+| [born2beroot](https://github.com/omrfrkzu/born2beroot) | <img src="https://img.shields.io/github/languages/top/jotavare/born2beroot"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/born2beroot"/> | `3 peers` `1 hour` |
+| [minitalk](https://github.com/omrfrkzu/minitalk) | <img src="https://img.shields.io/github/languages/top/jotavare/minitalk"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/minitalk"/> | `3 peers` `15 mins` |
+| [so_long](https://github.com/omrfrkzu/so_long) | <img src="https://img.shields.io/github/languages/top/jotavare/so_long"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/so_long"/> | `3 peers` `15 mins` |
+| [push_swap](https://github.com/omrfrkzu/push_swap) | <img src="https://img.shields.io/github/languages/top/jotavare/push_swap"/> | <img src="https://img.shields.io/badge/84%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/push_swap"/> | `3 peers` `15 mins` |
 </div>
 
 ## NORMINETTE
