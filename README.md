@@ -43,21 +43,22 @@ Bu depo, **42 Kocaeli Common Core**'da bugüne kadar geliştirilen kodları içe
 
 | Exam Rank | Language | Finish Date | Grade | Time |
 | :--- | :--- | :--- | :--- | :--- |
-| Exam 02 | `C` | 06-12-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
+| [Exam 02](https://github.com/omrfrkzu/42Kocaeli_Sınavlar/tree/ba4b697206e6c9c876ef7c4131e65f1b58f116bf/S%C4%B1navlar/exam02) | `C` | 06-12-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
+
+</div>
 
 ## NORMINETTE
 42 Okulu'nda, neredeyse her projenin Okul'un kodlama standardı olan Norm'a uygun olarak yazılması beklenmektedir.
 
 ```
-- While, switch, case, goto, üçlü operatörler veya değişken uzunluklu dizilere izin verilir;
-- Her işlev, işlevin küme parantezlerini saymadan en fazla 25 satır olmalıdır;
-- Her satır, yorumlar dahil olmak üzere en fazla 80 sütun genişliğinde olmalıdır;
-- Bir işlev maksimum 4 adlandırılmış parametre alabilir;
-- Aynı satırda atama ve bildirim yok (statik olmadıkça);
-- İşlev başına 5'ten fazla değişken bildiremezsiniz;
+- **for**, **do...while**, **switch**, **case**, **goto**, **ternary operator** (?:) veya **variable-length** kullanılamaz;  
+- Her fonksiyonun uzunluğu, süslü parantezler hariç, maksimum 25 satır olabilir;  
+- Her bir satır, yorumlar dahil olmak üzere, en fazla 80 karakter genişliğinde olmalıdır;  
+- Bir fonksiyon en fazla 4 isimlendirilmiş parametre alabilir;  
+- Aynı satırda hem atama hem de tanımlama yapılamaz (static hariç);  
+- Bir fonksiyon içerisinde en fazla 5 değişken tanımlanabilir;  
 - ...
 ```
-
 
 * [42 Normları](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf) - 42 kod normları hakkında bilgi. `PDF`
 * [Norminette](https://github.com/42School/norminette) - 42 tarafından geliştirilmiş kod normlarına uyulmasını sağlayan araç. `GitHub`
