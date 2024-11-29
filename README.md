@@ -38,6 +38,13 @@ Bu depo, **42 Kocaeli Common Core**'da bugüne kadar geliştirilen kodları içe
 | [push_swap](https://github.com/omrfrkzu/push_swap) | <img src="https://img.shields.io/github/languages/top/jotavare/push_swap"/> | <img src="https://img.shields.io/badge/84%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/push_swap"/> | `3 peers` `15 mins` |
 </div>
 
+## EXAMS
+<div align="center">
+
+| Exam Rank | Language | Finish Date | Grade | Time |
+| :--- | :--- | :--- | :--- | :--- |
+| Exam 02 | `C` | 06-12-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
+
 ## NORMINETTE
 42 Okulu'nda, neredeyse her projenin Okul'un kodlama standardı olan Norm'a uygun olarak yazılması beklenmektedir.
 
