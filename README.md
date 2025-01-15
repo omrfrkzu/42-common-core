@@ -43,7 +43,7 @@ Bu depo, **42 Kocaeli Common Core**'da bugüne kadar geliştirilen kodları içe
 
 | Exam Rank | Language | Finish Date | Grade | Time |
 | :--- | :--- | :--- | :--- | :--- |
-| [Exam 02](https://github.com/omrfrkzu/42Kocaeli_Sinavlar/tree/ba4b697206e6c9c876ef7c4131e65f1b58f116bf/S%C4%B1navlar/exam02) | `C` | 06-12-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
+| [Exam 02](https://github.com/omrfrkzu/42_Sinavlar) | `C` | 06-12-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
 
 </div>
 
