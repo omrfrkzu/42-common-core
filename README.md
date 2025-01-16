@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
-	<a href='https://42kocaeli.com.tr/' target="_blank"><img alt='42' src='https://img.shields.io/badge/42-Kocaeli-Kocaeli'/></a>
+	<a href='https://42istanbul.com.tr/' target="_blank"><img alt='42' src='https://img.shields.io/badge/42-%C4%B0stanbul-%C4%B0stanbul'/></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## HAKKINDA
 **42 Common Core**, 2013 yılında Paris'te geliştirilmiş ve sürekli olarak değerlendirilmektedir. Öğrenciler, projeleri tamamlayarak ve seviyelerini yükseltmek için puan kazanarak programda ilerlemektedirler; bu da öğrenme deneyimini oyun gibi hissettirmektedir.
 
-Bu depo, **42 Kocaeli Common Core**'da bugüne kadar geliştirilen kodları içermektedir.</br>
+Bu depo, **42 Türkiye Common Core**'da bugüne kadar geliştirilen kodları içermektedir.</br>
 
 > [!NOT]  
 > Eğer **42 Kocaeli Piscine** ile ilgili kodlar arıyorsanız, <a href="https://github.com/omrfrkzu/42-piscine.git">buraya tıklayın</a>.
